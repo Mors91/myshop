@@ -2,7 +2,7 @@
 // Assuming your database credentials
 $hostname = 'localhost';
 $username = 'root';
-$password = 'U2gtza(6xOND4GfO';
+$password = 'your_password';
 $database = 'person';
 
 // Create a new MySQLi instance
