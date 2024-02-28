@@ -119,4 +119,4 @@ if ($result) {
 }
 
 // Close the connection
-$mysqli->close();
+$mysqli->close(); 
