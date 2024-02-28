@@ -1,3 +1,5 @@
+File path on local machine C:\xampp\htdocs\myshop
+
 #Creating a database connection with php via phpmyadmin and xampp control panel.
 Running queries with php, (insert statement and select statements).
 Processing query results with php.
